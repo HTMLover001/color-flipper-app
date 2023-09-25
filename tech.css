@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    font-family: calibri;
+    color: white;
+    margin: 0;
+    padding: 0;
+ }
+ #main-div{
+    background-image: url(images/background-technology-desktop.jpg);
+    height: 100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    /* padding-top: 20px; */
+ }
+ #container-1{
+     display: flex;
+     padding-top: 20px;
+     /* background-image: url(images/bdg.jpg); */
+ 
+  }
+  .one{
+    padding-top: 10px;
+    margin-left: 1rem;
+    /* box-sizing: border-box;  */
+     /* border: 1px solid red; */
+     /* width: 5vh; */
+     /* height: 5vh; */
+     
+  }
+  .two{
+     border: 1px solid white;
+     width: 40vw;
+     height: 1%;
+     margin-left: 30px;
+     float: left;
+     margin-top: 35px;
+     z-index: 1;
+     opacity: 50%;
+  }
+  .three{
+    /* z-index: 1; */
+    /* padding-top:30px; */
+     /* border: 1px solid blue; */
+    background: linear-gradient( to left, rgb(83, 80, 97), rgb(40, 40, 53)); 
+     width: 60vw;
+     height: 15vh;
+     display: flex;
+     align-items: center;
+     margin-left: -25px;
+     /* justify-content: space-around; */
+     /* background-color: linear-gradient(rgb(47, 47, 90) gray blue); */
+  }
+  .three a{
+    /* justify-content: center; */
+    padding-left: 70px;
+    text-decoration: none;
+    margin-left: -30px;
+    /* margin-top: 40px; */
+    color: white;
+    /* word-spacing: px; */
+  }
+  .con-tech{
+    width: 90vw;
+     height: 70vh;
+     /* border: 1px solid purple; */
+     margin-left: 90px;
+     display: flex;
+     justify-content: space-around;
+     /* margin-right: 0px; */
+     /* margin: auto; */
+  }
+.loan{
+   width: 20vw;
+     height: 5vh;
+     /* border: 1px solid red; */
+     margin-left: 90px;
+     word-spacing: 10px;
+     display: flex;
+     justify-content: left;
+     align-items: center;
+     margin-top: 20px;
+}
+
+  .con-1{
+    width: 10vw;
+     height: 70vh;
+     /* border: 1px solid green; */
+     /* margin: auto; */
+     margin: auto;
+     display: block;
+     align-items: center;
+     justify-items: center;
+     justify-content: center;
+   
+  }
+
+  .con-2{
+    width: 40vw;
+     height: 50vh;
+     /* border: 1px solid blue; */
+     margin: auto;
+  }
+  .con-3{
+    width: 35vw;
+     height: 60vh;
+     /* border: 1px solid yellow; */
+     margin: auto;
+     margin-left:60px;
+  }
+  .con-3 img{
+   width: 35vw;
+   height: 60vh;
+  }
+  .roll-1{
+   width: 60px;
+     height: 60px;
+     background-color: white;
+     border-radius: 60px;
+     /* margin: auto; */
+     margin-top: 40px;
+     display: flex;
+   align-items: center;
+   justify-content: center;
+  }
+  .roll-2{
+   width: 60px;
+     height: 60px;
+     background-color: rgb(31, 29, 29);
+     border-radius: 60px;
+     /* margin: auto; */
+     margin-top: 15px;
+     border: 1px solid white;
+     display: flex;
+   align-items: center;
+   justify-content: center;
+  }
+  .roll-3{
+     width: 60px;
+     height: 60px;
+     background-color: rgb(26, 24, 24);
+     border-radius: 60px;
+     /* margin: auto; */
+     margin-top: 15px;
+     border: 1px solid white;
+     display: flex;
+   align-items: center;
+   justify-content: center;
+  }
+  

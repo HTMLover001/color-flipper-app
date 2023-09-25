@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+   /* background-image: url(images/destination-bgd.jpg ); */
+    margin: 0;
+    padding: 0;
+ }
+ #main-div-2{
+    background-image: url(images/destination-bgd.jpg);
+    height: 100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    /* padding-top: 20px; */
+ }
+#container-2{
+    display: flex;
+    padding-top: 20px;
+    /* background-image: url(images/bdg.jpg); */
+
+ }
+ .one{
+   padding-top: 10px;
+   margin-left: 1rem;
+   /* box-sizing: border-box;  */
+    /* border: 1px solid red; */
+    /* width: 5vh; */
+    /* height: 5vh; */
+    
+ }
+ .two{
+    border: 1px solid hwb(0 96% 4%);
+    width: 50vw;
+    height: 1%;
+    margin-left: 30px;
+    float: left;
+    margin-top: 35px;
+    z-index: 1;
+    opacity: 50%;
+ }
+ .three{
+   /* z-index: 1; */
+   /* padding-top:30px; */
+    /* border: 1px solid blue; */
+   background: linear-gradient( to left, rgb(83, 80, 97), rgb(40, 40, 53)); 
+    width: 70vw;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    margin-left: -20px;
+    /* justify-content: space-around; */
+    /* background-color: linear-gradient(rgb(47, 47, 90) gray blue); */
+ }
+ .three a{
+   /* justify-content: center; */
+   padding-left: 70px;
+   text-decoration: none;
+   margin-left: -30px;
+   /* margin-top: 40px; */
+   color: white;
+   /* word-spacing: px; */
+ }
+
+ #destiny{
+  font-family: calibri;
+   width:90vw;
+   height: 80vh;
+   /* border: 1px solid red; */
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin: auto;
+   /* background-color: green; */
+
+ }
+  
+  .pick{
+   width: 30vw;
+   height: 10vh;
+   /* border: 1px solid white; */
+   color: white;
+   display: flex;
+   font-family: calibri;
+ }
+ .pick h4{
+   margin-right: 10px;
+ }
+ .tom{
+   /* background-image: url(images/image-mars.png); */
+   /* background-size: 100px; */
+   /* background-position: center; */
+   width:40vw;
+   height: 70vh;
+   /* border: 1px solid purple ; */
+   box-sizing: border-box;
+ }
+ .tom img{
+   height: 250px;
+   margin-left: 100px;
+ }
+ .jerry{
+   width:30vw;
+   height: 60vh;
+   /* border: 1px solid yellow; */
+   color: white;
+ }
+ .jerry h1{
+   font-size: 70px;
+   font-family: calibri;
+   font-weight: 1px;
+   margin-left: 10px;
+ }
+ .place {
+  text-decoration: none;
+  margin-left: -30px;
+   display: flex;
+   /* align-items: ;   */
+   justify-content: space-evenly;
+   
+ }
+ .place a{
+  text-decoration: none;
+  color: white;
+  /* word-spacing: 20px; */
+ }
+ .line-2{
+   width:27vw;
+   height: 0;
+   border: 1px solid white;
+   margin-top: 30px;
+   /* margin-left: 10px; */
+   opacity: 20%;
+ }
+ .ant{
+  font-family: calibri;
+  display: flex;
+  margin-top: 20px;
+  /* align-items: center;
+  justify-content: space-around; */
+ }
+ .dog{
+   border: 0px solid red;
+   margin-left: 40px;
+ }
+ .cat{
+   border: 0px solid green;
+ }
+ 
+ 
